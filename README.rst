@@ -6,8 +6,9 @@ Minimal Python 2 and 3 on Alpine Linux.
 Supported tags and respective Dockerfile links
 ----------------------------------------------
 
-- **:2** https://github.com/bashell-com/alpine-python/blob/master/2/Dockerfile
-- **:3** https://github.com/bashell-com/alpine-python/blob/master/3/Dockerfile
+- **:2** https://github.com/bashell-com/alpine-python/blob/2/Dockerfile
+- **:3** https://github.com/bashell-com/alpine-python/blob/3/Dockerfile
+- **:latest** https://github.com/bashell-com/alpine-python/blob/master/Dockerfile
 
 Usage
 -----
